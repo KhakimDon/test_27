@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: mersb;
+    src: url('./bold.otf');
+}
+@font-face {
+    font-family: mersl;
+    src: url('./light.ttf');
+}
